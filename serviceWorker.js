@@ -12,10 +12,10 @@ self.addEventListener("install", (event) => {
         addResourcesToCache([
             "/",
             "/index.html",
-            "/css/style.css",
+            "/pwa-repo1/css/style.css",
             "/app.js",
-            "/media/icons/icon-32.png",
-            "/media/icons/icon-512.png",
+            "/pwa-repo1/media/icons/icon-32.png",
+            "/pwa-repo1/media/icons/icon-512.png",
         ])
     );
 });
