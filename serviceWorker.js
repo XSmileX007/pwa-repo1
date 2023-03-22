@@ -13,7 +13,7 @@ self.addEventListener("install", (event) => {
             "/",
             "/index.html",
             "/css/style.css",
-            "/js/app.js",
+            "/app.js",
             "/media/icons/icon-32.png",
             "/media/icons/icon-512.png",
         ])
